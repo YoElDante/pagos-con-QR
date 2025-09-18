@@ -13,6 +13,6 @@ Toda la documentación está en la carpeta [`/docs`](./docs):
 
 ## 📌 Decisiones Técnicas (ADR)
 
-Las decisiones tecnológicas y de arquitectura se documentan en [`/docs/decisiones`](./docs/adr).
+Las decisiones tecnológicas y de arquitectura se documentan en [`/docs/adr`](./docs/adr).
 
 - [ADR-001: Uso de pnpm](./docs/adr/ADR-001-uso-de-pnpm.md)
