@@ -7,7 +7,7 @@ Toda la documentación está en la carpeta [`/docs`](./docs):
 - [`/diario-de-desarrollo`](./docs/diario-de-desarrollo) → Registro diario con aprendizajes, logros y bloqueos.
 - [`/sprints`](./docs/sprints) → Objetivos y resultados de cada sprint.
 - [`/backlog`](./docs/backlog) → Lista de funcionalidades pendientes y deuda técnica.
-- [`/decisiones`](./docs/decisiones) → Architecture Decision Records (ADR).
+- [`/decisiones`](./docs/adr) → Architecture Decision Records (ADR).
 
 🔗 Tablero de planificación: [Trello del proyecto](https://trello.com/b/VQTpZtJP/pagos-qr)
 

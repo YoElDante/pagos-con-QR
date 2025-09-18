@@ -29,3 +29,8 @@ minimumReleaseAge: 14400 # 10 días
 minimumReleaseAgeExclude:
   - react # ejemplo
 ````
+### 🛠️ Comandos básicos de pnpm
+- `pnpm install` → instala dependencias
+- `pnpm add <paquete>` → agrega un paquete
+- `pnpm add -D <paquete>` → agrega un paquete de desarrollo
+- `pnpm dev` → corre el servidor en modo desarrollo
