@@ -1,0 +1,4 @@
+minimumReleaseAge: 14400 # 10 días
+minimumReleaseAgeExclude:
+  - package-1
+  - package-2 # Excluir paquetes específicos
